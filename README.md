@@ -3,5 +3,5 @@ Desafio do Curso DIO - Universia - Fundamentos de IA Generativa 2026
 
 ## Passos:
 ### 1-Elaboração do roteiro sobre o tema no Gemini - Roteiro anexo
-### 2-Gravação (em video com voz propria) a paretir do tema do roteiro, focando nos aspectos do impacto nas pessoas
+### 2-Gravação (em video com voz propria) a partir do tema do roteiro, focando nos aspectos do impacto nas pessoas
 ### 3-Elaboração da capa (anexa) no Canva, utilizando imagem gerada pelo Gemini 
